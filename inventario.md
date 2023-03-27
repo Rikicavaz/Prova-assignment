@@ -1,3 +1,5 @@
+Componenti
+---------------------------------------------
 * Processori
 * Schede Madri
-\*Elettronica Padovana\*
+*Elettronica Padovana*
